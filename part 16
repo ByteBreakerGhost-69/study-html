@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>belajar form</title>
+</head>
+<body>
+
+<form action="">
+    <p>username <input type="text"></p>
+    <p>password <input type="password"></p>
+    <p>tanggal lahir <input type="date"></p>
+    <p> jenis kelamin :
+        <input type="radio" name="jenis_kelamin" value="laki-laki">laki-laki
+        <input type="radio" name="jenis_kelamin" value="perempuan">perempuan
+    </p>
+
+    <p>golongan darah :
+        <input type="radio" name="golongan_darah" value="O">O
+        <input type="radio" name="golongan_darah" value="B">B
+        <input type="radio" name="golongan_darah" value="AB">AB
+        <input type="radio" name="golongan_darah" value="A">A
+    </p>
+
+    <botton type="submit" name="submit">login </botton>
+</form>
+<p> alamat lengkap : <textarea name="" id="" cols="80" rows="5">alamat lengkap</textarea></p>
+
+<p> hoby"
+    <input type="checkbox"> membaca
+    <input type="checkbox"> menulis
+    <input type="checkbox"> ngoding
+    <input type="checkbox"> hacking
+</p>
+
+<p>pilih jurusan
+    <select name="" id="">
+        <option value="">teknik informaitka</option>
+        <option value="">teknik nuklir</option>
+        <option value="">teknik fisika</option>
+        <option value="" selected >AI</option>
+    </select>
+</p>
+
+<p>
+    <label for="username :">username :
+    <input type="text" name="" id="">
+    </label>
+</p>
+
+<p> pilihan :
+    <label for="pilihan">
+    <input type="checkbox" name="" id="pilihan"> html
+    </label>
+</p>
+
+    <fieldset>
+        <legend> data peserta </legend>
+        <p>nama : <input type="text"></p>
+        <p>alamat : <input type="text"></p>
+    </fieldset>
+
+    <fieldset>
+        <legend> pilih lah</legend>
+        <p><input type="checkbox"> HTML</p>
+        <p><input type="checkbox"> CSS</p>
+        <p><input type="checkbox"> JS</p>
+        <p><input type="checkbox"> python</p>
+    </fieldset>
+
+
+</body>
+</html>
+<!-- membuat form -- wajib di bungkus form -->
+<!-- atribut type di gunakan kertika nilai yang ada di dalam elemen form itu akan di kirim -->
+<!-- name itu di gunakan ketika sudah berinteraksi dengan php dan databes mysql -->
+<!-- 1. input type username-->
+<!-- 2. input type password -->
+<!-- 3. input untuk login -->
+<!-- 4. teks area  -->
+<!-- 5. elemen form date -->
+<!-- 6. elemen radio button -->
+<!-- 7. input type checkbox -->
+<!-- 8. tag label -->
