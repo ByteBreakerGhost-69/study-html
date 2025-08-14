@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+</head>
+<body>
+  <form action="">
+    <p>nama lengkap: <input type="text" required></p>
+    <p>mama panggilan: <input type="text"></p>
+    <p>alamar 1: <input type="text" required></p>
+    <p>alamat 2: <input type="text"></p>
+    <p>No. Handphone: <input type="tel"></p>
+    <button type="submit">kirim data</button>
+  </form>
+</body>
+</html>
+
+<!--- required itu untuk mewajibkan di isi --->
