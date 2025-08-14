@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+</head>
+<body>
+  <p><progress value="20" max="100"></progres> </p>
+  <p>tinggi badan<meter value="175" max="200"></meter> 175cm </p>
+</body>
+</html>
