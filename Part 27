@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+</head>
+<body>
+  <p>username: <input type="text" placeholder="username anda" ></p>
+  <p>password: <input type="password" placeholder="password anda" ></p>
+  <p>email: <input type="email" placeholder="contoh@gmail.com" ></p>
+</body>
+</html>
+
+
+<!--- placeholder ---->
