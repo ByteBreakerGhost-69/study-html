@@ -73,7 +73,7 @@
 </body>
 </html>
 <!-- membuat form -- wajib di bungkus form -->
-<!-- atribut type di gunakan kertika nilai yang ada di dalam elemen form itu akan di kirim -->
+<!-- atribut type di gunakan ketika nilai yang ada di dalam elemen form itu akan di kirim -->
 <!-- name itu di gunakan ketika sudah berinteraksi dengan php dan databes mysql -->
 <!-- 1. input type username-->
 <!-- 2. input type password -->
