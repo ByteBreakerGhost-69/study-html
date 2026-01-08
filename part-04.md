@@ -7,8 +7,8 @@
 </head>
 <body>
     <p>
-         aku akan selalu mempelajari <mark>1 skill</mark> sehari dan selesai dalam <mark>1 hari</mark>
-         <br>ini adalah balas dendam ku
+         aku akan selalu mempelajari <mark>1 skill</mark> sehari dan selesai dalam <mark>one skill</mark>
+         <br>...................
     </p>
 </body>
 </html>
