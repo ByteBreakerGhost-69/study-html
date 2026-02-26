@@ -42,10 +42,10 @@ And again — thank you for your patience, and sorry if things are still a bit r
 
 | No | Nama Folder / Materi | Link Akses |
 |:---:|:---|:---:|
-| 01 | part 1 | [Buka]( https://github.com/ByteBreakerGhost-69/study-html/blob/main/part-01.md) |
-| 02 | part 2 | [Buka]( https://github.com/ByteBreakerGhost-69/study-html/blob/main/part-02.md) |
-| 03 | Part 3 | [Buka]( https://github.com/ByteBreakerGhost-69/study-html/blob/main/part-03.md) |
-| 04 | part 4 |[Buka]( https://github.com/ByteBreakerGhost-69/study-html/blob/main/part-04.md ) |
+| 01 | part 1 | [Buka]( https://github.com/ByteBreakerGhost-69/study-html/blob/main/part-01) |
+| 02 | part 2 | [Buka]( https://github.com/ByteBreakerGhost-69/study-html/blob/main/part-02) |
+| 03 | Part 3 | [Buka]( https://github.com/ByteBreakerGhost-69/study-html/blob/main/part-03) |
+| 04 | part 4 |[Buka]( https://github.com/ByteBreakerGhost-69/study-html/blob/main/part-04) |
 | 05 | part 5 |[Buka]( ) |
 | 06 | part 6 | [Buka]( ) |
 | 07 | part 7 |  [Buka]( ) |
