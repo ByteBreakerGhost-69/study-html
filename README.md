@@ -42,30 +42,30 @@ And again — thank you for your patience, and sorry if things are still a bit r
 
 | No | Nama Folder / Materi | Link Akses |
 |:---:|:---|:---:|
-| 01 | Dasar-Dasar HTML| [Buka]( https://github.com/ByteBreakerGhost-69/study-html/blob/main/part-01.md) |
-| 02 | Elemen Heading | [Buka]( https://github.com/ByteBreakerGhost-69/study-html/blob/main/part-02.md) |
-| 03 | Paragraf & Formatting | [Buka]( https://github.com/ByteBreakerGhost-69/study-html/blob/main/part-03.md) |
-| 04 | List (Ordered & Unordered) |[Buka]( https://github.com/ByteBreakerGhost-69/study-html/blob/main/part-04.md ) |
-| 05 | Link & Navigasi |[Buka]( ) |
-| 06 | Menampilkan Gambar | [Buka]( ) |
-| 07 | Tabel Dasar |  [Buka]( ) |
-| 08 | Form & Input | [Buka]( ) |
-| 09 | Atribut Global | [Buka]( ) |
-| 10 | Komentar di HTML | [Buka]( ) |
-| 11 | Semantik HTML5 | [Buka]( ) |
-| 12 | Audio & Video | [Buka]( ) |
-| 13 | Iframe & Embed | [Buka]( ) |
-| 14 | Layouting Dasar | [Buka]( ) |
-| 15 | Meta Tags & SEO | [Buka]( ) |
-| 16 | Favicon | [Buka]( ) |
-| 17 | Script & Stylesheet | [Buka]( ) |
-| 18 | SVG Dasar | [Buka]( ) |
-| 19 | Canvas | [Buka]( ) |
-| 20 | Web Storage | [Buka]( ) |
-| 21 | Materi 21 |[Buka]( ) |
-| 22 | Materi 22 |[Buka]( ) |
-| 23 | Materi 23 |[Buka]( ) |
-| 24 | Materi 24 |[Buka]( ) |
+| 01 | part 1 | [Buka]( https://github.com/ByteBreakerGhost-69/study-html/blob/main/part-01.md) |
+| 02 | part 2 | [Buka]( https://github.com/ByteBreakerGhost-69/study-html/blob/main/part-02.md) |
+| 03 | Part 3 | [Buka]( https://github.com/ByteBreakerGhost-69/study-html/blob/main/part-03.md) |
+| 04 | part 4 |[Buka]( https://github.com/ByteBreakerGhost-69/study-html/blob/main/part-04.md ) |
+| 05 | part 5 |[Buka]( ) |
+| 06 | part 6 | [Buka]( ) |
+| 07 | part 7 |  [Buka]( ) |
+| 08 | part 8 | [Buka]( ) |
+| 09 | part 9 | [Buka]( ) |
+| 10 | part 10 | [Buka]( ) |
+| 11 | part 11 | [Buka]( ) |
+| 12 | part 12 | [Buka]( ) |
+| 13 | part 13 | [Buka]( ) |
+| 14 | part 14 | [Buka]( ) |
+| 15 | part 15 | [Buka]( ) |
+| 16 | part 16 | [Buka]( ) |
+| 17 | part 17 | [Buka]( ) |
+| 18 | part 18 | [Buka]( ) |
+| 19 | part 19 | [Buka]( ) |
+| 20 | part 20 | [Buka]( ) |
+| 21 | part 21 |[Buka]( ) |
+| 22 | part 22 |[Buka]( ) |
+| 23 | part 23 |[Buka]( ) |
+| 24 | part 24 |[Buka]( ) |
 | 25 | Materi 25 |[Buka]( ) |
 | 26 | Materi 26 |[Buka]( ) |
 | 27 | Materi 27 | [Buka]( ) |
